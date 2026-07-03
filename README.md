@@ -29,6 +29,13 @@
 - 3 月销售额环比下降 32%，需关注
 - 单价与销售额相关系数 0.58，提升单价是有效策略
 
+##可视化结果
+
+<img width="1200" height="800" alt="电商销售分析" src="https://github.com/user-attachments/assets/861336cc-30e8-4b0b-b458-1c188533fa30" /> 整体结果
+
+
+
+
 ## 👤 作者
 
 - GitHub: [@mszy212](https://github.com/mszy212)
